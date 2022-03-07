@@ -16,6 +16,7 @@
 
 * Whitelist
   - Ability to remove or add yourself to a whitelist that enables the bot to track your messages.
+  ![screenshot](https://i.imgur.com/ev53qJn.gif)
 * Language Translation
   - Currently only Russian and English are being translates.
 
