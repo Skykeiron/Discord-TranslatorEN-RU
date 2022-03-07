@@ -1,26 +1,29 @@
-# Discord-TranslatorEN-RU
-Discord Bot to Translate Russian and English
+<h1 align="center">
+  Discord Translator
+  <br>
+</h1>
 
+<h4 align="center">A Discord bot created to Translate English <-> Russian</h4>
 
-Navigate to the .env File and provide the following:
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#credits">Credits</a> •
+</p>
 
-Your discord Bot **TOKEN** (You can get this from the [Discord Developer Portal](https://discord.com/developers/applications))
-<br>
-TOKEN=
+![screenshot](https://i.imgur.com/KYNWvP5.gif)
 
-The **BOT_NAME** of your discord Bot (**E.G BOT_NAME=Keiron Bot**)
-<br>
-BOT_NAME=
+## Key Features
 
+* Whitelist
+  - Ability to remove or add yourself to a whitelist that enables the bot to track your messages.
+* Language Translation
+  - Currently only Russian and English are being translates.
 
-The **CHANNEL** you want the Bot to work in (**E.G CHANNEL=admin-chat**)
-<br>
-CHANNEL=
+## Credits
 
-The **PREFIX** you would like your bot to operate as (**Default set to '!'**)
-<br>
-PREFIX=
+This software uses the following open source packages:
 
-The **OWNER_ID** is the id of your Discord Account (**E.G Mine is 181959487295455232**)
-<br>
-OWNER_ID=
+- [JDA](https://github.com/DV8FromTheWorld/JDA)
+- [Dotenv](https://github.com/cdimascio/java-dotenv)
+- Me (Keiron#001)
+
