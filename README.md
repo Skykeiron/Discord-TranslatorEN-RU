@@ -3,7 +3,6 @@ Discord Bot to Translate Russian and English
 
 Navigate to the .env File and provide the following:
 
-
 Your discord Bot Token (You can get this from the [Discord Developer Portal](https://discord.com/developers/applications))
 TOKEN=
 
