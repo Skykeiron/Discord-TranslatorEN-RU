@@ -1,5 +1,5 @@
 <h1 align="center">
-  Discord Translator
+  Discord Translator (RU + ENG)
   <br>
 </h1>
 
