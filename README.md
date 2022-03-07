@@ -1,7 +1,6 @@
 # Discord-TranslatorEN-RU
 Discord Bot to Translate Russian and English
 
-#Setting up the Discord Bot#
 
 Navigate to the .env File and provide the following:
 
