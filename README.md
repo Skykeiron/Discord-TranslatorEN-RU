@@ -26,5 +26,5 @@ This software uses the following open source packages:
 
 - [JDA](https://github.com/DV8FromTheWorld/JDA)
 - [Dotenv](https://github.com/cdimascio/java-dotenv)
-- Me (Keiron#001)
+- Me (Keiron#0001)
 
